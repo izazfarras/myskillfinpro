@@ -1,2 +1,2 @@
-# myskillfinpro
-MySkill Data Analyst Final Project using Python
+# Python Project
+Data Analyst Learning Progress using Python
